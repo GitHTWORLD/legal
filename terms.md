@@ -80,4 +80,4 @@ Notices must be in writing and sent to the Notice Address above or to the email 
 
 ---
 
-**Effective Date:** [Insert date]
+**Effective Date:** 07 Jan 2026 0700Z

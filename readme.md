@@ -3,7 +3,7 @@
 
 This repository hosts HTWORLD’s legal pages for incorporation by reference on invoices and service orders.
 
-- **Master Service Terms:** `/terms.md` — publish via GitHub Pages (recommended URL: `https://githtworld.github.io/terms`)
+- **Master Service Terms:** `/terms.md` — publish via GitHub Pages (recommended URL: `https://githtworld.github.io/legal/terms`)
 - **Privacy Policy:** `/privacy.md` — publish via GitHub Pages (recommended URL: `https://githtworld.github.io/legal/privacy`)
 
 ## Set Up GitHub Pages
